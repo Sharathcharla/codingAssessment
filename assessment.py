@@ -1,5 +1,5 @@
 consecutive_number = 2  # Consecutive number is declared
-IPL_Team_Scores = [  # Team points are taken in string array
+IPL_Team_Scores = [  # Team points are taken in string list
     "GT-20-WWLLW",
     "LSG-18-WLLWW",
     "RR-16-WLWLL",
